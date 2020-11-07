@@ -5,6 +5,6 @@ For now, the most important thing to know is that it is an adaptation of the fin
 
 https://osf.io/x4gzt/
 
-and find the arxiv preprint (a detailed and informative tutorial) here
+and find the arxiv preprint (a detailed and informative tutorial) here:
 
 https://psyarxiv.com/hvfmr/
