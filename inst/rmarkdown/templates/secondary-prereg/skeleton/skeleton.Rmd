@@ -1,0 +1,48 @@
+---
+title: "Title of Project"
+author:
+- affiliation: Some Institution
+  email: agatha@example.com
+  name: Agatha Ayalla
+- affiliation:
+  - Another University
+  - Some Institution
+  email: ben@example.com
+  name: Ben Baba
+output:
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_float: true
+    number_sections: true
+  pdf_document:
+    toc: yes
+  word_document:
+    
+    toc: yes
+---
+# Abstract
+  A brief description of the project. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget porta erat. Morbi consectetur est vel gravida pretium. Suspendisse ut dui eu ante cursus gravida non sed sem. Nullam sapien tellus, commodo id velit id, eleifend volutpat quam. Phasellus mauris velit, dapibus finibus elementum vel, pulvinar non tellus. Nunc pellentesque pretium diam, quis maximus dolor faucibus id. Nunc convallis sodales ante, ut ullamcorper est egestas vitae. Nam sit amet enim ultrices, ultrices elit pulvinar, volutpat risus.
+
+<!--Since this a secondary data preregistration, you may already have some descriptives you'd like to include in the report. Load the data and any packages below-->
+```{r setup, include=FALSE,message=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+
+# Author Information
+<!--Add information below. The table lines may not look pretty but it'll format fine -->
+
+|  Name                    | Email                       | ORCID                | Proposed Roles                        |Author Agreement Used?|
+|:-------------------------|----------------------------:|---------------------:|--------------------------------------:|---------------------:|
+|Alice Agawalla            |alice@example.com            |0000-0000-0000-0000	  |   first author, analysis, first draft |$\checkmark$          |
+|Ben Baba                  |ben@example.com              |0000-0000-0000-0000   |   second author, draft                |$\checkmark$          |
+|Carmen Cabello            |                             |                      |   data steward                        |*pending*             |
+|                          |                             |                      |                                       |                      |
+
+# Background
+
+##Research Question
+
+## Data Description
