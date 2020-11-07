@@ -1,15 +1,8 @@
 Package: secondarydataprereg
-<<<<<<< HEAD
 Title: Preregistration RMD Template for Secondary Data Analysis
 Version: 0.0.0.9000
 Authors@R: person("Natasha A.", "Tonge", email = "natasha.tonge@gmail.com", role = c("aut", "cre"))
 Description: A template in rmd to accompany https://osf.io/x4gzt/.
-=======
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
->>>>>>> 6d3a76ed95939513f2bdbc6792fccd48ecf0f4ec
 Depends: R (>= 3.5.3)
 License: What license is it under?
 Encoding: UTF-8
