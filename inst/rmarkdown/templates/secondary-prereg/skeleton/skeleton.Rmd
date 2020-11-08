@@ -33,8 +33,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Title
 <!--Provide the working title of your study. It is helpful if this is the same title that you submit for publication of your final manuscript, but it is not a requirement.-->
 
-Project Title
-
 ## Author Information
 <!--Tips: 
 1. Expand the Source window to the right to view the entire table at once. The lines don't have to align for the final document to format. 
@@ -58,7 +56,7 @@ See https://www.apa.org/science/about/psa/2015/06/determining-authorship for exa
 | Devi Duong               |  devi@example.com       |  data steward        |
 |                          |                         |                      |
 
-##Research Question
+## Research Questions
 <!--Please list each research question included in this study using secondary data. Include only one question per line to make it easier to keep track of your hypotheses. 
 For each of the research questions listed, provide one or multiple specific and testable hypotheses, or one or more specific estimates related to those research questions. If doing hypothesis testing, please state if the hypotheses are directional or non-directional. If directional, state the direction. A predicted effect is also appropriate here. Provide that information under Rationale-->
 
@@ -87,7 +85,7 @@ For each of the research questions listed, provide one or multiple specific and 
 
 # Data Description
 
-### Name or brief description of data set(s): 
+## Name or brief description of data set(s): 
 
 
 **Is this data open or publicly available?**
@@ -106,24 +104,24 @@ $\Box$  No
 Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
 *Check all that apply:*
 
-$\Box$  National Data Set - a nationally representative sample collected by another team of researchers
+$\Box$  National Data Set - a nationally representative sample collected by another team of researchers 
 
-$\Box$  Private Organizational Data - Internally collected data by an organization made available for academic purposes
+$\Box$  Private Organizational Data - Internally collected data by an organization made available for academic purposes 
 
-$\Box$  Own Lab Collection - Data were connected by one of the analysts’ lab
+$\Box$  Own Lab Collection - Data were connected by one of the analysts’ lab  
 
-$\Box$  Other Lab Collection - Data were collected by another researcher’s lab (analysts were not involved in data collection)
+$\Box$  Other Lab Collection - Data were collected by another researcher’s lab (analysts were not involved in data collection)  
 
-$\Box$  Meta-Analysis - A systematic review of published studies.
+$\Box$  Meta-Analysis - A systematic review of published studies. 
 
-$\Box$  Multi-lab collaboration - Data were collected at several sites using the same procedure.
+$\Box$  Multi-lab collaboration - Data were collected at several sites using the same procedure.  
 
-$\Box$  Other - please explain:
+$\Box$  Other - please explain: 
 
-### Codebook
+## Codebook
 <!-- Some studies (usually publically available) offer codebooks to describe their data. If such a codebook is available, please link to it here or upload the document-->
 
-### Sampling and data collection procedures 
+## Sampling and data collection procedures 
 <!--Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
 
 $\Box$  If the data collection procedure is already well documented, please provide a link to the information
@@ -146,27 +144,28 @@ iii.
 <!--Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
 *Select one of the following items:*
 
-$\Box$  I have never analysed these data before
-$\Box$  I have used this dataset before, but I am using variables and measures that I have never analyzed.
-$\Box$  I have used this dataset before, including at least some of the variables and measures in this study. However, all analyses were on a             mutually exclusive subset (e.g., different participants or different waves) of the dataset.
-$\Box$  I have used all of these variables before on a different and mutually exclusive subset of these data.
-$\Box$  I have used some of these variables before on this (sub)set of these data
-$\Box$  I have used all of these variables before on this (sub)set of data
+$\Box$  I have never analysed these data before 
+$\Box$  I have used this dataset before, but I am using variables and measures that I have never analyzed.  
+$\Box$  I have used this dataset before, including at least some of the variables and measures in this study. However, all analyses were on a             mutually exclusive subset (e.g., different participants or different waves) of the dataset. 
+$\Box$  I have used all of these variables before on a different and mutually exclusive subset of these data. 
+$\Box$  I have used some of these variables before on this (sub)set of these data.  
+$\Box$  I have used all of these variables before on this (sub)set of data. 
 
 **Prior Knowledge current dataset**
 
-$\Box$  No prior knowledge
+$\Box$  No prior knowledge  
 <!--What amounts of prior knowledge do you already have for the specific data set you will be working with? For example, are you aware of descriptive statistics or covariation between variables from previously published research or codebooks. Please provide information about your first-hand knowledge of the data set or your familiarity with existing publications that use this data set. -->
 
 **Moment of Preregistration**
 <!--Preregistration is designed to make clear the distinction between confirmatory tests, specified prior to seeing the data, and exploratory analyses conducted after observing the data. Therefore, creating a research plan in which existing data will be used presents unique challenges. It is very important that you specify the exact moment of the preregistration. Please select the description that best describes your situation. For example, if you will be using longitudinal data in a national panel study that has not been collected, select “Registration prior to creation of data.” If you are using data that will be provided by a private organization, and people there have already looked at the data, but your team has not accessed it, pick “Registration prior to accessing the data.” Please do not hesitate to contact Center for Open Science if you have questions about how to answer this question (prereg@cos.io).-->
+
 *Response options:*     
-$\Box$  Registration prior to creation of data 
-$\Box$  Registration prior to any human observation of the data 
-$\Box$  Registration prior to any researcher on this team accessing the data 
-$\Box$  Registration prior to any researcher on this team handling or analysis of the data
-$\Box$  Registration after data cleaning, but before any main analyses
-$\Box$  Registration following analysis of the data 
+$\Box$  Registration prior to creation of data  
+$\Box$  Registration prior to any human observation of the data  
+$\Box$  Registration prior to any researcher on this team accessing the data  
+$\Box$  Registration prior to any researcher on this team handling or analysis of the data  
+$\Box$  Registration after data cleaning, but before any main analyses  
+$\Box$  Registration following analysis of the data  
 
 # Current Study: Variables
 
@@ -186,22 +185,22 @@ $\Box$  N/A
 
 **How will the variables will be aggregated? **
 
-*Options:*
-$\Box$ Mean score
-$\Box$ Sum score
-$\Box$ Weighted mean or weighted sum (provide more detail about how weights will be determined below)
-$\Box$ Exploratory Factor Analysis (provide more detail below, e.g., rotation, how number of factors will be determined, how best fit will be             selected)
-$\Box$ Structural Equation Modeling/CFA (provide more detail below, e.g., how loadings will be specified, how fit will be assessed, which                 residuals variance terms will be correlated)
-$\Box$ Other (provide more detail)
+*Options:*  
+$\Box$ Mean score  
+$\Box$ Sum score  
+$\Box$ Weighted mean or weighted sum (provide more detail about how weights will be determined below) 
+$\Box$ Exploratory Factor Analysis (provide more detail below, e.g., rotation, how number of factors will be determined, how best fit will be             selected) 
+$\Box$ Structural Equation Modeling/CFA (provide more detail below, e.g., how loadings will be specified, how fit will be assessed, which                 residuals variance terms will be correlated)  
+$\Box$ Other (provide more detail)  
 
-**Is this aggregation is based on recommendations from the study codebook or validation research?**
+**Is this aggregation is based on recommendations from the study codebook or validation research?** 
 
 $\Box$ Yes
         *Detail:*
         
 $\Box$ No (if yes, provide detail in text box)
 
-### Index/Indices 
+## Index/Indices 
 
 $\Box$  Not Applicable
 
@@ -209,56 +208,56 @@ $\Box$  Not Applicable
 
 <!--Example: We will take the mean of the two questions above to create a single measure of ‘brownie enjoyment.’ -->
 
-### Transformations
+## Transformations
 
 <!--Description: If you plan on transforming, centering, recoding the data, or will require a coding scheme for categorical variables, please describe that process.-->
 
 Options: 
 
-$\Box$  Grand mean centering
-$\Box$  Group mean centering
-$\Box$  Standardizing
-$\Box$  Log (log e) 
-$\Box$  Log (base 10)
-$\Box$  Square-root transform
-$\Box$  1/x
-$\Box$  Winsorizing
-$\Box$  Other (text box appears)
+$\Box$  Grand mean centering  
+$\Box$  Group mean centering  
+$\Box$  Standardizing  
+$\Box$  Log (log e)  
+$\Box$  Log (base 10)  
+$\Box$  Square-root transform  
+$\Box$  1/x  
+$\Box$  Winsorizing  
+$\Box$  Other (text box appears)  
 
-### Data Inclusion/exclusion
+## Data Inclusion/exclusion
 <!--
 Description: Which units of analysis will be included or excluded in your study? Please consider not only participants, but cohorts, waves, even data sets.-->
 
-### Outliers
+## Outliers
 <!-- How will you define what an outlier is your data, and what will you do when you encounter them?-->
 
 $\Box$  Not Applicable
 
 
-### Weights
+## Weights
 
 $\Box$  Not Applicable
 **Are there sampling weights available with this data set? If so, are you using them and how?**
 
-### Sample size
+## Sample size
 <!--What is the sample size (to the best of your knowledge)? For each of your research questions, what is the smallest effect size you will consider meaningful? How much power will you have to detect each of those effects?-->
 
-### Missing data 
+## Missing data 
 <!--Description: What do you know about missing data in the data set already (e.g., overall missingness rate, information about differential dropout)? How will you deal with incomplete or missing data?-->
 
-## Current Study : Analyses
+# Current Study : Analyses
 
-### Statistical Models
+## Statistical Models
 <!--Description: For each hypotheses, describe the statistical model will you use to test the hypothesis. Please include the type of model (e.g. ANOVA, multiple regression, SEM, etc) and the specification of the model (this includes each variable that will be included as predictors, outcomes, or covariates). Please specify any interactions and post-hoc analyses that will be tested and remember that any test not included here must be noted as an exploratory test in your final article.-->
 
-### Follow-up analyses 
+## Follow-up analyses 
 <!-- If not specified previously, will you be conducting any confirmatory analyses to follow-up on effects in your statistical model, such as subgroup analyses, pairwise or complex contrasts, or follow-up tests from interactions? Remember that any analyses not specified in this research plan must be noted as exploratory.-->
 
-### Inference criteria
+## Inference criteria
 
 <!--What criteria will you use to make inferences? Please describe the information you’ll use (e.g. specify the p-values, effect sizes, confidence intervals, Bayes factors, specific model fit indices), as well as cut-off criterion, where appropriate. Will you be using one or two tailed tests for each of your analyses? If you are comparing multiple conditions or testing multiple hypotheses, will you account for this?-->
 
-### Sensitivity Analyses 
+## Sensitivity Analyses 
 
 $\Box$  N/A
 
@@ -281,12 +280,12 @@ Preregistration is designed to make clear the distinction between confirmatory t
 
 If you’re uncertain about what preregistration is, or if you should do it, read about it [here](https://www.cos.io/initiatives/prereg).
 
-The good news is, if you’ve made it this far, most of this document can be used to create your preregistration! See more information about Secondary Data Preregistration and Resources for making your own [here](https://osf.io/x4gzt/).
+The good news is, if you’ve made it this far, most of this document can be used to create your preregistration! See more information about Secondary Data Preregistration and Resources for making your own [here](https://osf.io/x4gzt/).  
 
 
-*DISCLAIMER:*
-
+*DISCLAIMER:*  
 *Document adapted from work by:*  
+
 [Sara J. Weston](https://osf.io/2psu4/)
 
 [David Thomas Mellor](https://osf.io/qthsf/)
