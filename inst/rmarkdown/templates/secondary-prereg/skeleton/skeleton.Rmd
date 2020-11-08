@@ -66,9 +66,9 @@ For each of the research questions listed, provide one or multiple specific and 
 
 1) Hypothesis 1.1 (related to RQ1)
     i) Statistical test of hypothesis 1.1
-    i) Statistical test of hypothesis 1.1
-2) Hypothesis 1.2 (related to RQ1)
     ii) Statistical test of hypothesis 1.1
+2) Hypothesis 1.2 (related to RQ1)
+    i) Statistical test of hypothesis 1.1
     ii) Statistical test of hypothesis 1.1
 
 **Rationale**: 
@@ -78,9 +78,9 @@ For each of the research questions listed, provide one or multiple specific and 
 
 1) Hypothesis 2.1 (related to RQ2)
     i) Statistical test of hypothesis 2.1
-    i) Statistical test of hypothesis 2.1
+    ii) Statistical test of hypothesis 2.1
 2) Hypothesis 2.2 (related to RQ2)
-    ii) Statistical test of hypothesis 2.2
+    i) Statistical test of hypothesis 2.2
     ii) Statistical test of hypothesis 2.2
 
 **Rationale**: 
@@ -93,16 +93,19 @@ For each of the research questions listed, provide one or multiple specific and 
 **Is this data open or publicly available?**
 <!-- Replace $\Box$ with $\checkmark$  next to EITHER yes or no below to indicate your selection-->
 $\Box$  Yes
+
 $\Box$  No
 
 **How can the data be accessed? Provide link if available online: **
 
 **Date of download or access: **
 
+
 **Data Source**
 <!--    Description: Please describe what entity originally collected this data.
 Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
 *Check all that apply:*
+
 $\Box$  National Data Set - a nationally representative sample collected by another team of researchers
 
 $\Box$  Private Organizational Data - Internally collected data by an organization made available for academic purposes
@@ -127,4 +130,118 @@ $\Box$  If the data collection procedure is already well documented, please prov
 
 $\Box$  If the the data collection procedure is not yet well documented, please describe, to the best of your ability, how data were collected. What populations were sampled from, what were the recruitment efforts, what was the procedure for running participants through the study, were researchers blind to the research question, hypotheses or conditions, was randomization of any kind used, etc?
 
+# Knowledge of the Data
+<!-- Select option below if the authors have not work 
+Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
 
+$\Box$ Never worked with this dataset directly
+
+**Prior work based on the dataset**
+<!--Description: List any publications, conference presentations (papers, posters), or working papers (in-prep, unpublished, preprints) based on this data set that you have worked on. Describe what information, down to the level of the variable, that you have  previously analyzed.  If this dataset is longitudinal, include here information about what wave of data was previously analyzed. You don’t not have to describe the results, simply indicate which aspects of the data you have analyzed.-->
+i.
+ii.
+iii.
+
+**Prior Research Activity**
+<!--Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
+*Select one of the following items:*
+
+$\Box$  I have never analysed these data before
+$\Box$  I have used this dataset before, but I am using variables and measures that I have never analyzed.
+$\Box$  I have used this dataset before, including at least some of the variables and measures in this study. However, all analyses were on a             mutually exclusive subset (e.g., different participants or different waves) of the dataset.
+$\Box$  I have used all of these variables before on a different and mutually exclusive subset of these data.
+$\Box$  I have used some of these variables before on this (sub)set of these data
+$\Box$  I have used all of these variables before on this (sub)set of data
+
+**Prior Knowledge current dataset**
+
+$\Box$  No prior knowledge
+<!--What amounts of prior knowledge do you already have for the specific data set you will be working with? For example, are you aware of descriptive statistics or covariation between variables from previously published research or codebooks. Please provide information about your first-hand knowledge of the data set or your familiarity with existing publications that use this data set. -->
+
+**Moment of Preregistration**
+<!--Preregistration is designed to make clear the distinction between confirmatory tests, specified prior to seeing the data, and exploratory analyses conducted after observing the data. Therefore, creating a research plan in which existing data will be used presents unique challenges. It is very important that you specify the exact moment of the preregistration. Please select the description that best describes your situation. For example, if you will be using longitudinal data in a national panel study that has not been collected, select “Registration prior to creation of data.” If you are using data that will be provided by a private organization, and people there have already looked at the data, but your team has not accessed it, pick “Registration prior to accessing the data.” Please do not hesitate to contact Center for Open Science if you have questions about how to answer this question (prereg@cos.io).-->
+*Response options:*     
+$\Box$  Registration prior to creation of data 
+$\Box$  Registration prior to any human observation of the data 
+$\Box$  Registration prior to any researcher on this team accessing the data 
+$\Box$  Registration prior to any researcher on this team handling or analysis of the data
+$\Box$  Registration after data cleaning, but before any main analyses
+$\Box$  Registration following analysis of the data 
+
+# Current Study: Variables
+
+## Manipulated variables
+$\Box$ Not Applicable
+<!-- Identify the manipulated variables you plan to use. Describe these  variables and the levels or treatment arms of each variable. For observational studies and meta-analyses, simply state that this is not applicable. If you are collapsing groups across variables, this should be explicitly stated and the formula provided.-->
+
+## Measured variables 
+<!--Describe each variable that was measured. This will include outcome measures, as well as any predictors or covariates that were measured. You do not need to include any variables that are included in the dataset if they are not going to be included in the confirmatory analyses of this study. Describe in as much detail as possible-->
+
+## Scales
+<!--Description: A scale is a measure of a construct that includes at least two items. These items are then aggregated into a smaller set of scores which are then incorporated into statistical models.  If you are using a scale, what construct does this scale represent? (Describe a single scale here. You will have the opportunity to add additional scales if needed.)-->
+
+$\Box$  N/A
+
+**Please indicate which variables in the data set will be used to create this scale. Add a new line for each scale you will create or use. **
+
+**How will the variables will be aggregated? **
+
+*Options:*
+$\Box$ Mean score
+$\Box$ Sum score
+$\Box$ Weighted mean or weighted sum (provide more detail about how weights will be determined below)
+$\Box$ Exploratory Factor Analysis (provide more detail below, e.g., rotation, how number of factors will be determined, how best fit will be             selected)
+$\Box$ Structural Equation Modeling/CFA (provide more detail below, e.g., how loadings will be specified, how fit will be assessed, which                 residuals variance terms will be correlated)
+$\Box$ Other (provide more detail)
+
+**Is this aggregation is based on recommendations from the study codebook or validation research?**
+
+$\Box$ Yes
+        *Detail:*
+        
+$\Box$ No (if yes, provide detail in text box)
+
+### Index/Indices 
+
+$\Box$  Not Applicable
+
+<!--An index is an indicator of a value or quantity. For example, an exam score is an indicator of a student’s understanding of course material. If you are using or creating an index, please indicate which variables in the data set will be used to create this index, how those variables exactly will be aggregated, what you believe this variable or aggregation represents, and whether this aggregation is based on recommendations from the study codebook or validation research.-->
+
+<!--Example: We will take the mean of the two questions above to create a single measure of ‘brownie enjoyment.’ -->
+
+### Transformations
+
+<!--Description: If you plan on transforming, centering, recoding the data, or will require a coding scheme for categorical variables, please describe that process.-->
+
+Options: 
+
+$\Box$  Grand mean centering
+$\Box$  Group mean centering
+$\Box$  Standardizing
+$\Box$  Log (log e) 
+$\Box$  Log (base 10)
+$\Box$  Square-root transform
+$\Box$  1/x
+$\Box$  Winsorizing
+$\Box$  Other (text box appears)
+
+### Data Inclusion/exclusion
+<!--
+Description: Which units of analysis will be included or excluded in your study? Please consider not only participants, but cohorts, waves, even data sets.-->
+
+### Outliers
+<!-- How will you define what an outlier is your data, and what will you do when you encounter them?-->
+
+$\Box$  Not Applicable
+
+
+### Weights
+
+$\Box$  Not Applicable
+**Are there sampling weights available with this data set? If so, are you using them and how?**
+
+### Sample size
+<!--What is the sample size (to the best of your knowledge)? For each of your research questions, what is the smallest effect size you will consider meaningful? How much power will you have to detect each of those effects?-->
+
+### Missing data 
+<!--Description: What do you know about missing data in the data set already (e.g., overall missingness rate, information about differential dropout)? How will you deal with incomplete or missing data?-->
