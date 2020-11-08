@@ -90,6 +90,7 @@ For each of the research questions listed, provide one or multiple specific and 
 
 **Is this data open or publicly available?**
 <!-- Replace $\Box$ with $\checkmark$  next to EITHER yes or no below to indicate your selection-->
+
 $\Box$  Yes
 
 $\Box$  No
@@ -99,7 +100,7 @@ $\Box$  No
 **Date of download or access: **
 
 
-**Data Source**
+**Data Source** 
 <!--    Description: Please describe what entity originally collected this data.
 Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
 *Check all that apply:*
