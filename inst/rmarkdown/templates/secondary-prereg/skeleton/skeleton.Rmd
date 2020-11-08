@@ -287,42 +287,42 @@ The good news is, if you’ve made it this far, most of this document can be use
 DISCLAIMER:
 
 *Document adapted from work by:*
-[Sara J. Weston] (https://osf.io/2psu4/)
+[Sara J. Weston](https://osf.io/2psu4/)
 
-[David Thomas Mellor] (https://osf.io/qthsf/)
+[David Thomas Mellor](https://osf.io/qthsf/)
 
-[Marjan Bakker] (https://osf.io/fe3fy/)
+[Marjan Bakker](https://osf.io/fe3fy/)
 
-[Olmo van den Akker] (https://osf.io/ye2gs/)
+[Olmo van den Akker](https://osf.io/ye2gs/)
 
-[Lorne Campbell] (https://osf.io/sa9im/)
+[Lorne Campbell](https://osf.io/sa9im/)
 
-[Stuart J Ritchie] (https://osf.io/xigur/)
+[Stuart J Ritchie](https://osf.io/xigur/)
 
-[William J. Chopik] (https://osf.io/sjgc3/)
+[William J. Chopik](https://osf.io/sjgc3/)
 
-[Rodica I. Damian] (https://osf.io/9e34a/)
+[Rodica I. Damian](https://osf.io/9e34a/)
 
-[Jessica Kosie] (https://osf.io/b9zcd/)
+[Jessica Kosie](https://osf.io/b9zcd/)
 
-[Courtney K. Soderberg] (https://osf.io/hsey5/)
+[Courtney K. Soderberg](https://osf.io/hsey5/)
 
-[Charles R. Ebersole] (https://osf.io/f4xnz/)
+[Charles R. Ebersole](https://osf.io/f4xnz/)
 
-[Brian Brown] (https://osf.io/y4ksn/)
+[Brian Brown](https://osf.io/y4ksn/)
 
-[Pamela Davis-Kean] (https://osf.io/hsutp/)
+[Pamela Davis-Kean](https://osf.io/hsutp/)
 
-[Andrew Hall] (https://osf.io/qf3ph/)
+[Andrew Hall](https://osf.io/qf3ph/)
 
-[Elliott Kruse] (https://osf.io/vpdaq/)
+[Elliott Kruse](https://osf.io/vpdaq/)
 
-[Jerome Olsen] (https://osf.io/2dswj/)
+[Jerome Olsen](https://osf.io/2dswj/)
 
-[K.D. Valentine] (https://osf.io/8fst6/)
+[K.D. Valentine](https://osf.io/8fst6/)
 
-[Thuy-vy Nguyen] (https://osf.io/ake57/)
+[Thuy-vy Nguyen](https://osf.io/ake57/)
 
-[Alexander DeHaven] (https://osf.io/5k3hq/)
+[Alexander DeHaven](https://osf.io/5k3hq/)
 
 
