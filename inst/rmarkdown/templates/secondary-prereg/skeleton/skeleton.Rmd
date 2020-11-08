@@ -18,7 +18,6 @@ output:
   pdf_document:
     toc: yes
   word_document:
-    
     toc: yes
 ---
 # Abstract
@@ -86,7 +85,7 @@ For each of the research questions listed, provide one or multiple specific and 
 
 **Rationale**: 
 
-## Data Description
+# Data Description
 
 ### Name or brief description of data set(s): 
 
@@ -95,5 +94,37 @@ For each of the research questions listed, provide one or multiple specific and 
 <!-- Replace $\Box$ with $\checkmark$  next to EITHER yes or no below to indicate your selection-->
 $\Box$  Yes
 $\Box$  No
+
+**How can the data be accessed? Provide link if available online: **
+
+**Date of download or access: **
+
+**Data Source**
+<!--    Description: Please describe what entity originally collected this data.
+Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
+*Check all that apply:*
+$\Box$  National Data Set - a nationally representative sample collected by another team of researchers
+
+$\Box$  Private Organizational Data - Internally collected data by an organization made available for academic purposes
+
+$\Box$  Own Lab Collection - Data were connected by one of the analysts’ lab
+
+$\Box$  Other Lab Collection - Data were collected by another researcher’s lab (analysts were not involved in data collection)
+
+$\Box$  Meta-Analysis - A systematic review of published studies.
+
+$\Box$  Multi-lab collaboration - Data were collected at several sites using the same procedure.
+
+$\Box$  Other - please explain:
+
+### Codebook
+<!-- Some studies (usually publically available) offer codebooks to describe their data. If such a codebook is available, please link to it here or upload the document-->
+
+### Sampling and data collection procedures 
+<!--Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
+
+$\Box$  If the data collection procedure is already well documented, please provide a link to the information
+
+$\Box$  If the the data collection procedure is not yet well documented, please describe, to the best of your ability, how data were collected. What populations were sampled from, what were the recruitment efforts, what was the procedure for running participants through the study, were researchers blind to the research question, hypotheses or conditions, was randomization of any kind used, etc?
 
 
