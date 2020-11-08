@@ -279,14 +279,14 @@ $\Box$  N/A <!-- are you sure you don't want a backup plan?-->
 #  Preregistration
 Preregistration is designed to make clear the distinction between confirmatory tests, specified prior to seeing the data, and exploratory analyses conducted after observing the data. Therefore, creating a research plan in which existing data will be used presents unique challenges. It is very important that you specify the exact moment of the preregistration.
 
-If you’re uncertain about what preregistration is, or if you should do it, read about it here.
+If you’re uncertain about what preregistration is, or if you should do it, read about it [here](https://www.cos.io/initiatives/prereg).
 
-The good news is, if you’ve made it this far, most of this document can be used to create your preregistration! See more information about Secondary Data Preregistration and Resources for making your own here
+The good news is, if you’ve made it this far, most of this document can be used to create your preregistration! See more information about Secondary Data Preregistration and Resources for making your own [here](https://osf.io/x4gzt/).
 
 
-DISCLAIMER:
+*DISCLAIMER:*
 
-*Document adapted from work by:*
+*Document adapted from work by:*  
 [Sara J. Weston](https://osf.io/2psu4/)
 
 [David Thomas Mellor](https://osf.io/qthsf/)
