@@ -254,4 +254,76 @@ $\Box$  Not Applicable
 ### Follow-up analyses 
 <!-- If not specified previously, will you be conducting any confirmatory analyses to follow-up on effects in your statistical model, such as subgroup analyses, pairwise or complex contrasts, or follow-up tests from interactions? Remember that any analyses not specified in this research plan must be noted as exploratory.-->
 
+### Inference criteria
+
+<!--What criteria will you use to make inferences? Please describe the information you’ll use (e.g. specify the p-values, effect sizes, confidence intervals, Bayes factors, specific model fit indices), as well as cut-off criterion, where appropriate. Will you be using one or two tailed tests for each of your analyses? If you are comparing multiple conditions or testing multiple hypotheses, will you account for this?-->
+
+### Sensitivity Analyses 
+
+$\Box$  N/A
+
+<!--Provide a series of decisions about evaluating the strength, reliability, or robustness of your focal hypothesis test. This may include additional control variables, cross-validation efforts (out-of-sample replication, spilt/hold-out sample), any machine learning application/analyses, applying weights, selectively applying constraints in an SEM context (e.g., comparing model fit statistics), any alpha or multiple comparison adjustments, overfitting adjustment techniques used (e.g., regularization approaches such as ridge regression), or some other simulation/sampling/bootstrapping.-->
+
+### Statistical Analysis Backup Plan
+<!--Describe what you will do should your data violate assumptions, your model not converge, or some other analytic problem arise? -->
+
+$\Box$  N/A <!-- are you sure you don't want a backup plan?-->
+
+## Exploratory analysis
+<!--If you plan to explore your data set to look for unexpected differences or relationships, you may describe those tests here. An exploratory test is any test where a prediction is not made up front, or there are multiple possible tests that you are going to use. A statistically significant finding in an exploratory test is a great way to form a new confirmatory hypothesis, which could be registered at a later time in a different dataset.-->
+
+# Other relevant information
+
+**If there is any other relevant information, please add it here. **
+
+#  Preregistration
+Preregistration is designed to make clear the distinction between confirmatory tests, specified prior to seeing the data, and exploratory analyses conducted after observing the data. Therefore, creating a research plan in which existing data will be used presents unique challenges. It is very important that you specify the exact moment of the preregistration.
+
+If you’re uncertain about what preregistration is, or if you should do it, read about it here.
+
+The good news is, if you’ve made it this far, most of this document can be used to create your preregistration! See more information about Secondary Data Preregistration and Resources for making your own here
+
+
+DISCLAIMER:
+
+*Document adapted from work by:*
+  Sara J. Weston 
+
+  David Thomas Mellor 
+
+  Marjan Bakker 
+
+  Olmo van den Akker 
+
+  Lorne Campbell 
+
+  Stuart J Ritchie 
+
+  William J. Chopik 
+
+  Rodica I. Damian 
+
+  Jessica Kosie 
+
+  Courtney K. Soderberg 
+
+  Charles R. Ebersole 
+
+  Brian Brown 
+
+  Pamela Davis-Kean 
+
+  Andrew Hall 
+
+  Elliott Kruse 
+
+  Jerome Olsen 
+
+  K.D. Valentine 
+
+  Thuy-vy Nguyen 
+
+  Alexander DeHaven
+
+
 
