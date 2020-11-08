@@ -8,3 +8,6 @@ https://osf.io/x4gzt/
 and find the arxiv preprint (a detailed and informative tutorial) here:
 
 https://psyarxiv.com/hvfmr/
+
+## How to Use this Template
+You can install the latest version os the package containing the by using devtools::install_github(http://github.com/nattonge/secondarypreregistration) 
