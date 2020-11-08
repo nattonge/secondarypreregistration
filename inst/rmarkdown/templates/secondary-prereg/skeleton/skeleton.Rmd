@@ -245,3 +245,13 @@ $\Box$  Not Applicable
 
 ### Missing data 
 <!--Description: What do you know about missing data in the data set already (e.g., overall missingness rate, information about differential dropout)? How will you deal with incomplete or missing data?-->
+
+## Current Study : Analyses
+
+### Statistical Models
+<!--Description: For each hypotheses, describe the statistical model will you use to test the hypothesis. Please include the type of model (e.g. ANOVA, multiple regression, SEM, etc) and the specification of the model (this includes each variable that will be included as predictors, outcomes, or covariates). Please specify any interactions and post-hoc analyses that will be tested and remember that any test not included here must be noted as an exploratory test in your final article.-->
+
+### Follow-up analyses 
+<!-- If not specified previously, will you be conducting any confirmatory analyses to follow-up on effects in your statistical model, such as subgroup analyses, pairwise or complex contrasts, or follow-up tests from interactions? Remember that any analyses not specified in this research plan must be noted as exploratory.-->
+
+
