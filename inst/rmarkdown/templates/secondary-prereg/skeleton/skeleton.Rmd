@@ -9,17 +9,18 @@ author:
   - Some Institution
   email: ben@example.com
   name: Ben Baba
+bibliography: "references.bib"
 output:
+  pdf_document:
+    toc: yes
   word_document:
     reference_docx: word-styles.docx
     toc: yes
-  pdf_document:
-    toc: yes
   html_document:
-    css: markdown8.css
+    css: styles.css
     df_print: paged
     toc: yes
-    number_sections: true
+    number_sections: false
     toc_float: true
 ---
 # Abstract
@@ -29,6 +30,7 @@ output:
 <!--Since this a secondary data preregistration, you may already have some descriptives you'd like to include in the report. Load the data and any packages below-->
 ```{r setup, include=FALSE,message=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library()
 ```
 
 # Study Information
@@ -330,19 +332,23 @@ $\Box$  N/A <!-- are you sure you don't want a backup plan?-->
 \newpage
 
 # Other relevant information  
+**If there is any other relevant information, please add it here. **
 
 *Enter your response here*
 
 \newpage
 
-# References
-**If there is any other relevant information, please add it here. **
+
+# References  
+
+<div id="refs"></div>
 
 \newpage
 
 # Document Credits and Disclaimer
 
-*RMD preregistration template adapted from work by:*  
+*RMD preregistration template adapted from work by:* 
+
 
 [Sara J. Weston](https://osf.io/2psu4/)
 
