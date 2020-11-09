@@ -1,5 +1,5 @@
 ---
-title: "Title of Project"
+title: "Secondary Data Preregistration"
 author:
 - affiliation: Some Institution
   email: agatha@example.com
@@ -21,7 +21,8 @@ output:
     toc: yes
 ---
 # Abstract
-  A brief description of the project. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget porta erat. Morbi consectetur est vel gravida pretium. Suspendisse ut dui eu ante cursus gravida non sed sem. Nullam sapien tellus, commodo id velit id, eleifend volutpat quam. Phasellus mauris velit, dapibus finibus elementum vel, pulvinar non tellus. Nunc pellentesque pretium diam, quis maximus dolor faucibus id. Nunc convallis sodales ante, ut ullamcorper est egestas vitae. Nam sit amet enim ultrices, ultrices elit pulvinar, volutpat risus.
+
+*A brief description of the project.*
 
 <!--Since this a secondary data preregistration, you may already have some descriptives you'd like to include in the report. Load the data and any packages below-->
 ```{r setup, include=FALSE,message=FALSE}
@@ -41,8 +42,8 @@ knitr::opts_chunk$set(echo = TRUE)
 4. Author agreements or contracts are negotiable but can be helpful to state upfront. 
 See https://www.apa.org/science/about/psa/2015/06/determining-authorship for examples-->
 
-|  Name                    | Email                   | ORCID                | Proposed Roles                        |Author Agreement Used?|
-|:-------------------------|------------------------:|---------------------:|--------------------------------------:|---------------------:|
+|  Name                    | Email                   | ORCID                | Proposed Roles                       |Author Agreement Used?|
+|:-------------------------|:-----------------------:|:--------------------:|:------------------------------------:|---------------------:|
 |Alice Agawalla            |alice@example.com        |0000-0000-0000-0000	  |  first author, analysis, first draft |$\checkmark$      |
 |Ben Baba                  |ben@example.com          |0000-0000-0000-0000   |  second author, first draft          |$\checkmark$      |
 |Carmen Cabello            |carmen@example.com       |N/A                   |  senior author, study conception     |                  |
@@ -52,7 +53,7 @@ See https://www.apa.org/science/about/psa/2015/06/determining-authorship for exa
 <!--A place to list people who don't meet sufficient conditions for authorship, but who do play an important role in the research or handling the data. For example, graduate students who may have helped with cleaning the data copy-editing; staff serving as data steward or someone who might control access to the data.-->
 
 |  Name                    | Email                   |Role(s)               |
-|:-------------------------|------------------------:|---------------------:|
+|:-------------------------|:-----------------------:|:--------------------:|
 | Devi Duong               |  devi@example.com       |  data steward        |
 |                          |                         |                      |
 
@@ -71,6 +72,7 @@ For each of the research questions listed, provide one or multiple specific and 
 
 **Rationale**: 
 
+*Enter your response here*
 
 **Research Question 2**
 
@@ -83,10 +85,15 @@ For each of the research questions listed, provide one or multiple specific and 
 
 **Rationale**: 
 
+*Enter your response here*
+
 # Data Description
+
+*Enter your response here*
 
 ## Name or brief description of data set(s): 
 
+*Enter your response here*
 
 **Is this data open or publicly available?**
 <!-- Replace $\Box$ with $\checkmark$  next to EITHER yes or no below to indicate your selection-->
@@ -97,8 +104,11 @@ $\Box$  No
 
 **How can the data be accessed? Provide link if available online: **
 
+*Enter your response here*
+
 **Date of download or access: **
 
+*Enter your response here*
 
 **Data Source** 
 <!--    Description: Please describe what entity originally collected this data.
@@ -122,12 +132,14 @@ $\Box$  Other - please explain:
 ## Codebook
 <!-- Some studies (usually publically available) offer codebooks to describe their data. If such a codebook is available, please link to it here or upload the document-->
 
+*Enter your response here*
+
 ## Sampling and data collection procedures 
 <!--Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
 
-$\Box$  If the data collection procedure is already well documented, please provide a link to the information
+$\Box$  If the data collection procedure is already well documented, please provide a link to the information  
 
-$\Box$  If the the data collection procedure is not yet well documented, please describe, to the best of your ability, how data were collected. What populations were sampled from, what were the recruitment efforts, what was the procedure for running participants through the study, were researchers blind to the research question, hypotheses or conditions, was randomization of any kind used, etc?
+$\Box$  If the the data collection procedure is not yet well documented, please describe, to the best of your ability, how data were collected. What populations were sampled from, what were the recruitment efforts, what was the procedure for running participants through the study, were researchers blind to the research question, hypotheses or conditions, was randomization of any kind used, etc?  
 
 # Knowledge of the Data
 <!-- Select option below if the authors have not work 
@@ -135,15 +147,15 @@ Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selecti
 
 $\Box$ Never worked with this dataset directly
 
-**Prior work based on the dataset**
+**Prior work based on the dataset**  
 <!--Description: List any publications, conference presentations (papers, posters), or working papers (in-prep, unpublished, preprints) based on this data set that you have worked on. Describe what information, down to the level of the variable, that you have  previously analyzed.  If this dataset is longitudinal, include here information about what wave of data was previously analyzed. You don’t not have to describe the results, simply indicate which aspects of the data you have analyzed.-->
-i.
-ii.
-iii.
+i.  
+ii.  
+iii.  
 
 **Prior Research Activity**
 <!--Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
-*Select one of the following items:*
+*Select one of the following items:*  
 
 $\Box$  I have never analysed these data before 
 $\Box$  I have used this dataset before, but I am using variables and measures that I have never analyzed.  
@@ -152,15 +164,16 @@ $\Box$  I have used all of these variables before on a different and mutually ex
 $\Box$  I have used some of these variables before on this (sub)set of these data.  
 $\Box$  I have used all of these variables before on this (sub)set of data. 
 
-**Prior Knowledge current dataset**
+**Prior Knowledge current dataset**  
 
 $\Box$  No prior knowledge  
 <!--What amounts of prior knowledge do you already have for the specific data set you will be working with? For example, are you aware of descriptive statistics or covariation between variables from previously published research or codebooks. Please provide information about your first-hand knowledge of the data set or your familiarity with existing publications that use this data set. -->
 
-**Moment of Preregistration**
+**Moment of Preregistration**  
 <!--Preregistration is designed to make clear the distinction between confirmatory tests, specified prior to seeing the data, and exploratory analyses conducted after observing the data. Therefore, creating a research plan in which existing data will be used presents unique challenges. It is very important that you specify the exact moment of the preregistration. Please select the description that best describes your situation. For example, if you will be using longitudinal data in a national panel study that has not been collected, select “Registration prior to creation of data.” If you are using data that will be provided by a private organization, and people there have already looked at the data, but your team has not accessed it, pick “Registration prior to accessing the data.” Please do not hesitate to contact Center for Open Science if you have questions about how to answer this question (prereg@cos.io).-->
 
 *Response options:*     
+
 $\Box$  Registration prior to creation of data  
 $\Box$  Registration prior to any human observation of the data  
 $\Box$  Registration prior to any researcher on this team accessing the data  
@@ -171,25 +184,29 @@ $\Box$  Registration following analysis of the data
 # Current Study: Variables
 
 ## Manipulated variables
+
 $\Box$ Not Applicable
 <!-- Identify the manipulated variables you plan to use. Describe these  variables and the levels or treatment arms of each variable. For observational studies and meta-analyses, simply state that this is not applicable. If you are collapsing groups across variables, this should be explicitly stated and the formula provided.-->
 
-## Measured variables 
+## Measured variables  
 <!--Describe each variable that was measured. This will include outcome measures, as well as any predictors or covariates that were measured. You do not need to include any variables that are included in the dataset if they are not going to be included in the confirmatory analyses of this study. Describe in as much detail as possible-->
+*Enter your response here*
 
-## Scales
+## Scales  
 <!--Description: A scale is a measure of a construct that includes at least two items. These items are then aggregated into a smaller set of scores which are then incorporated into statistical models.  If you are using a scale, what construct does this scale represent? (Describe a single scale here. You will have the opportunity to add additional scales if needed.)-->
 
 $\Box$  N/A
 
 **Please indicate which variables in the data set will be used to create this scale. Add a new line for each scale you will create or use. **
 
+*Enter your response here*
+
 **How will the variables will be aggregated? **
 
-*Options:*  
+*Options:*   
 $\Box$ Mean score  
 $\Box$ Sum score  
-$\Box$ Weighted mean or weighted sum (provide more detail about how weights will be determined below) 
+$\Box$ Weighted mean or weighted sum (provide more detail about how weights will be determined below)  
 $\Box$ Exploratory Factor Analysis (provide more detail below, e.g., rotation, how number of factors will be determined, how best fit will be             selected) 
 $\Box$ Structural Equation Modeling/CFA (provide more detail below, e.g., how loadings will be specified, how fit will be assessed, which                 residuals variance terms will be correlated)  
 $\Box$ Other (provide more detail)  
