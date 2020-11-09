@@ -11,4 +11,17 @@ https://psyarxiv.com/hvfmr/
 
 ## How to Use this Template
 You can install the latest version os the package containing the by using the following code:
-` r devtools::install_github(http://github.com/nattonge/secondarypreregistration)`
+`devtools::install_github(http://github.com/nattonge/secondarypreregistration)`
+
+Once installed, go to:
+  + File -> New File -> New R Markdown
+  + Select "From Template" on the left
+  + Find Secondary Data Preregistration template in the list
+  + Create a new document
+  
+### General Notes and tips
+The template probably looks the best in html since there are number of levels in the table of contents. To edit the levels, you can add `toc_depth: 1` to have fewer levels in the table of contents. 
+
+This is my first template/package/time using github so comments and suggestions for improvements are greatly appreciated!
+
+  
