@@ -130,12 +130,12 @@ $\Box$  Multi-lab collaboration - Data were collected at several sites using the
 
 $\Box$  Other - please explain: 
 
-## Codebook
+### Codebook
 <!-- Some studies (usually publically available) offer codebooks to describe their data. If such a codebook is available, please link to it here or upload the document-->
 
 *Enter your response here*
 
-## Sampling and data collection procedures 
+### Sampling and data collection procedures 
 <!--Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
 
 $\Box$  If the data collection procedure is already well documented, please provide a link to the information  
@@ -146,24 +146,32 @@ $\Box$  If the the data collection procedure is not yet well documented, please 
 <!-- Select option below if the authors have not work 
 Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
 
-$\Box$ Never worked with this dataset directly
+$\Box$ Never worked with this dataset directly  
 
 **Prior work based on the dataset**  
 <!--Description: List any publications, conference presentations (papers, posters), or working papers (in-prep, unpublished, preprints) based on this data set that you have worked on. Describe what information, down to the level of the variable, that you have  previously analyzed.  If this dataset is longitudinal, include here information about what wave of data was previously analyzed. You don’t not have to describe the results, simply indicate which aspects of the data you have analyzed.-->
+
 i.  
 ii.  
 iii.  
 
 **Prior Research Activity**
 <!--Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
+
 *Select one of the following items:*  
 
 $\Box$  I have never analysed these data before 
+
 $\Box$  I have used this dataset before, but I am using variables and measures that I have never analyzed.  
+
 $\Box$  I have used this dataset before, including at least some of the variables and measures in this study. However, all analyses were on a             mutually exclusive subset (e.g., different participants or different waves) of the dataset. 
+
 $\Box$  I have used all of these variables before on a different and mutually exclusive subset of these data. 
+
 $\Box$  I have used some of these variables before on this (sub)set of these data.  
+
 $\Box$  I have used all of these variables before on this (sub)set of data. 
+
 
 **Prior Knowledge current dataset**  
 
@@ -176,10 +184,15 @@ $\Box$  No prior knowledge
 *Response options:*     
 
 $\Box$  Registration prior to creation of data  
+
 $\Box$  Registration prior to any human observation of the data  
+
 $\Box$  Registration prior to any researcher on this team accessing the data  
+
 $\Box$  Registration prior to any researcher on this team handling or analysis of the data  
+
 $\Box$  Registration after data cleaning, but before any main analyses  
+
 $\Box$  Registration following analysis of the data  
 
 # Current Study: Variables
@@ -205,11 +218,17 @@ $\Box$  N/A
 **How will the variables will be aggregated? **  
 
 *Options:*   
+
 $\Box$ Mean score  
+
 $\Box$ Sum score   
+
 $\Box$ Weighted mean or weighted sum (provide more detail about how weights will be determined below)  
+
 $\Box$ Exploratory Factor Analysis (provide more detail below, e.g., rotation, how number of factors will be determined, how best fit will be             selected)  
+
 $\Box$ Structural Equation Modeling/CFA (provide more detail below, e.g., how loadings will be specified, how fit will be assessed, which                 residuals variance terms will be correlated)  
+
 $\Box$ Other (provide more detail)  
 
 **Is this aggregation is based on recommendations from the study codebook or validation research?** 
