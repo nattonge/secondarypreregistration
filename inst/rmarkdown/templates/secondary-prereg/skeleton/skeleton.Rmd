@@ -10,17 +10,17 @@ author:
   email: ben@example.com
   name: Ben Baba
 output:
+  word_document:
+    reference_docx: word-styles.docx
+    toc: yes
+  pdf_document:
+    toc: yes
   html_document:
     css: markdown8.css
     df_print: paged
     toc: yes
     number_sections: true
     toc_float: true
-  pdf_document:
-    toc: yes
-  word_document:
-    reference_docx: word-styles.docx
-    toc: yes
 ---
 # Abstract
 
@@ -59,11 +59,13 @@ See https://www.apa.org/science/about/psa/2015/06/determining-authorship for exa
 | Devi Duong               |  devi@example.com       |  data steward        |
 |                          |                         |                      |
 
+\newpage
+
 ## Research Questions
 <!--Please list each research question included in this study using secondary data. Include only one question per line to make it easier to keep track of your hypotheses. 
 For each of the research questions listed, provide one or multiple specific and testable hypotheses, or one or more specific estimates related to those research questions. If doing hypothesis testing, please state if the hypotheses are directional or non-directional. If directional, state the direction. A predicted effect is also appropriate here. Provide that information under Rationale-->
 
-**Research Question 1**
+### Research Question 1
 
 1) Hypothesis 1.1 (related to RQ1)
     i) Statistical test of hypothesis 1.1
@@ -76,7 +78,7 @@ For each of the research questions listed, provide one or multiple specific and 
 
 *Enter your response here*
 
-**Research Question 2**
+### Research Question 2
 
 1) Hypothesis 2.1 (related to RQ2)
     i) Statistical test of hypothesis 2.1
@@ -88,6 +90,8 @@ For each of the research questions listed, provide one or multiple specific and 
 **Rationale**: 
 
 *Enter your response here*
+
+\newpage
 
 # Data Description
 
@@ -112,7 +116,7 @@ $\Box$  No
 
 *Enter your response here*
 
-**Data Source** 
+### Data Source
 <!--    Description: Please describe what entity originally collected this data.
 Replace $\Box$ with $\checkmark$ next to ANY item below to indicate your selection-->
 *Check all that apply:*
@@ -142,6 +146,8 @@ $\Box$  Other - please explain:
 $\Box$  If the data collection procedure is already well documented, please provide a link to the information  
 
 $\Box$  If the the data collection procedure is not yet well documented, please describe, to the best of your ability, how data were collected. What populations were sampled from, what were the recruitment efforts, what was the procedure for running participants through the study, were researchers blind to the research question, hypotheses or conditions, was randomization of any kind used, etc?  
+
+\newpage
 
 # Knowledge of the Data
 <!-- Select option below if the authors have not work 
@@ -287,6 +293,8 @@ $\Box$  Not Applicable
 <!--Description: What do you know about missing data in the data set already (e.g., overall missingness rate, information about differential dropout)? How will you deal with incomplete or missing data?-->
 *Enter your response here*
 
+\newpage
+
 # Current Study : Analyses
 
 *Enter your response here*
@@ -310,7 +318,7 @@ $\Box$  N/A
 <!--Provide a series of decisions about evaluating the strength, reliability, or robustness of your focal hypothesis test. This may include additional control variables, cross-validation efforts (out-of-sample replication, spilt/hold-out sample), any machine learning application/analyses, applying weights, selectively applying constraints in an SEM context (e.g., comparing model fit statistics), any alpha or multiple comparison adjustments, overfitting adjustment techniques used (e.g., regularization approaches such as ridge regression), or some other simulation/sampling/bootstrapping.-->
 *Enter your response here*
 
-### Statistical Analysis Backup Plan
+## Statistical Analysis Backup Plan
 <!--Describe what you will do should your data violate assumptions, your model not converge, or some other analytic problem arise? -->
 
 $\Box$  N/A <!-- are you sure you don't want a backup plan?-->
@@ -319,22 +327,22 @@ $\Box$  N/A <!-- are you sure you don't want a backup plan?-->
 <!--If you plan to explore your data set to look for unexpected differences or relationships, you may describe those tests here. An exploratory test is any test where a prediction is not made up front, or there are multiple possible tests that you are going to use. A statistically significant finding in an exploratory test is a great way to form a new confirmatory hypothesis, which could be registered at a later time in a different dataset.-->
 *Enter your response here*
 
+\newpage
+
 # Other relevant information  
 
 *Enter your response here*
 
+\newpage
+
+# References
 **If there is any other relevant information, please add it here. **
 
-#  Preregistration
-Preregistration is designed to make clear the distinction between confirmatory tests, specified prior to seeing the data, and exploratory analyses conducted after observing the data. Therefore, creating a research plan in which existing data will be used presents unique challenges. It is very important that you specify the exact moment of the preregistration.
+\newpage
 
-If you’re uncertain about what preregistration is, or if you should do it, read about it [here](https://www.cos.io/initiatives/prereg).
+# Document Credits and Disclaimer
 
-The good news is, if you’ve made it this far, most of this document can be used to create your preregistration! See more information about Secondary Data Preregistration and Resources for making your own [here](https://osf.io/x4gzt/).  
-
-
-*DISCLAIMER:*  
-*Document adapted from work by:*  
+*RMD preregistration template adapted from work by:*  
 
 [Sara J. Weston](https://osf.io/2psu4/)
 
@@ -374,4 +382,4 @@ The good news is, if you’ve made it this far, most of this document can be use
 
 [Alexander DeHaven](https://osf.io/5k3hq/)
 
-
+*Stylesheet was adapted from markdown8.css*
