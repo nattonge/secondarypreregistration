@@ -11,13 +11,14 @@ author:
   name: Ben Baba
 output:
   html_document:
+    css: markdown8.css
     df_print: paged
     toc: yes
-    toc_float: true
     number_sections: true
   pdf_document:
     toc: yes
   word_document:
+    reference_docx: word-styles.docx
     toc: yes
 ---
 # Abstract
@@ -205,9 +206,9 @@ $\Box$  N/A
 
 *Options:*   
 $\Box$ Mean score  
-$\Box$ Sum score  
+$\Box$ Sum score   
 $\Box$ Weighted mean or weighted sum (provide more detail about how weights will be determined below)  
-$\Box$ Exploratory Factor Analysis (provide more detail below, e.g., rotation, how number of factors will be determined, how best fit will be             selected) 
+$\Box$ Exploratory Factor Analysis (provide more detail below, e.g., rotation, how number of factors will be determined, how best fit will be             selected)  
 $\Box$ Structural Equation Modeling/CFA (provide more detail below, e.g., how loadings will be specified, how fit will be assessed, which                 residuals variance terms will be correlated)  
 $\Box$ Other (provide more detail)  
 
@@ -240,7 +241,7 @@ $\Box$  Log (base 10)
 $\Box$  Square-root transform  
 $\Box$  1/x  
 $\Box$  Winsorizing  
-$\Box$  Other (text box appears)  
+$\Box$  Other:   
 
 ## Data Inclusion/exclusion  
 <!--
