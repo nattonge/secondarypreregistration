@@ -10,16 +10,17 @@ author:
   email: ben@example.com
   name: Ben Baba
 output:
-  word_document:
-    reference_docx: word-styles.docx
-    toc: yes
-  pdf_document:
-    toc: yes
   html_document:
     css: markdown8.css
     df_print: paged
     toc: yes
     number_sections: true
+    toc_float: true
+  pdf_document:
+    toc: yes
+  word_document:
+    reference_docx: word-styles.docx
+    toc: yes
 ---
 # Abstract
 
